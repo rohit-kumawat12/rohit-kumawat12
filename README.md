@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ROHIT KUMAWAT</h1>
-<h3 align="center">A passionate full stack developer from <span color="#5353ff">INDIA</span></h3>
+<h3 align="center">A passionate full stack developer from INDIA</h3>
 
 - 📫 How to reach me **rohitkumawat.ak@gmail.com**
 
