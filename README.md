@@ -20,4 +20,4 @@
   <a href="https://css-animation-delta.vercel.app" target="blank" rel="noreferrer"><img alt="Coding"  width="275"  src="https://github.com/rohit-kumawat12/css-animation/assets/110055860/7cad02e1-f515-42a3-b39d-d4555dd1c817"/></a>
   <a href="https://image-steganography-five.vercel.app/" target="blank" rel="noreferrer"><img alt="Coding"  width="275"  src="https://github.com/user-attachments/assets/77a58b9d-7a98-4498-8d8c-ad62e751b749"/></a>
 </p>
-[Visitor Count](https://profile-counter.glitch.me/rohit-kumawat12/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/rohit-kumawat12/count.svg)
