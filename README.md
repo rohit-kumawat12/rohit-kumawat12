@@ -16,7 +16,7 @@
 
 <h3>Live Projects: </h3>
 <p align="left">  
-  <a href="https://news-flow-mu.vercel.app/" target="blank" rel="noreferrer"><img alt="Coding"  width="275"  src="https://github.com/rohit-kumawat12/News-Flow/assets/110055860/38c31615-60c0-480f-a66b-4ac2311d1f87"/></a>
+  <a href="https://www.rohitkumawat.me/" target="blank" rel="noreferrer"><img alt="Coding"  width="275"  src="https://github.com/user-attachments/assets/5191d49e-4bdc-4f03-8ef4-e331c9b6a210"/></a>
   <a href="https://css-animation-delta.vercel.app" target="blank" rel="noreferrer"><img alt="Coding"  width="275"  src="https://github.com/rohit-kumawat12/css-animation/assets/110055860/7cad02e1-f515-42a3-b39d-d4555dd1c817"/></a>
   <a href="https://image-steganography-five.vercel.app/" target="blank" rel="noreferrer"><img alt="Coding"  width="275"  src="https://github.com/user-attachments/assets/77a58b9d-7a98-4498-8d8c-ad62e751b749"/></a>
 </p>
