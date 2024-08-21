@@ -21,3 +21,4 @@
   <a href="https://image-steganography-five.vercel.app/" target="blank" rel="noreferrer"><img alt="Coding"  width="275"  src="https://github.com/user-attachments/assets/77a58b9d-7a98-4498-8d8c-ad62e751b749"/></a>
 </p>
 ![Visitor Count](https://profile-counter.glitch.me/rohit-kumawat12/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/rohit-kumawat12/count.svg)
